@@ -44,3 +44,7 @@ Start with [PURPOSE.md](PURPOSE.md), [ARCHITECTURE.md](ARCHITECTURE.md), [DECISI
 ## Current objective
 
 Prove Filament's boundary with one small, reusable, independently testable infrastructure vertical slice before selecting a broad provider strategy.
+
+## Repository file pilot
+
+The [`.gitignore` adoption record](docs/foundation/gitignore/README.md) captures the pinned Empathy baseline, Filament's selection, verification, and update process for the [organization file-contract epic](https://github.com/egohygiene/.github/issues/32).
